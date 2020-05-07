@@ -1,14 +1,11 @@
 import React from "react";
 
-import { Switch, Router, Route } from "react-router";
-
-import { historyService } from "~/services";
-
+import { Switch, Route, BrowserRouter as Router } from "react-router-dom";
 import { HomeMainPage } from "~/pages/Home";
 
 export const Routes: React.FC = () => {
   return (
-    <Router history={historyService}>
+    <Router>
       <Switch>
         <Route path={"/"} component={HomeMainPage} />
       </Switch>

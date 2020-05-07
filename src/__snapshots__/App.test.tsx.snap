@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App tests should render correctly 1`] = `"<div class=\\"sc-AxjAm iSRPDj\\"><header class=\\"sc-AxiKw nENPn\\"><img src=\\"logo.svg\\" class=\\"sc-AxhCb fiKusx App-logo\\" alt=\\"logo\\"/><p>Edit <code class=\\"sc-AxirZ fCPBbK\\">src/App.tsx</code> and save to reload.</p><a class=\\"App-link\\" href=\\"https://reactjs.org\\" target=\\"_blank\\" rel=\\"noopener noreferrer\\">Learn React</a></header></div>"`;
